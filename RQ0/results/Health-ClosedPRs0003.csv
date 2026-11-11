@@ -1,4 +1,6 @@
 Dataset, Health-ClosedPRs0003
-Sigmas, 0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 1
-initial_Aggrement, 0, 0, 0, 0, 0, 0, 0, 0, 0
-refined_Aggrement, 0, 0, 0, 0, 0, 0, 1, 9, 27
+All Sugg., [98, 98, 98, 98, 98, 98, 98, 98, 98, 98, 98, 98, 98, 98, 98, 98, 98, 98, 98, 100]
+Sugg. Med, 98.00
+Sugg. Std, 0.45
+dataset Std, 68.75
+Error, 5.29

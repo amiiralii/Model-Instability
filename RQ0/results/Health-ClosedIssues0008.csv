@@ -1,4 +1,6 @@
 Dataset, Health-ClosedIssues0008
-Sigmas, 0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 1
-initial_Aggrement, 0, 0, 0, 0, 0, 0, 0, 0, 1
-refined_Aggrement, 0, 0, 0, 0, 0, 0, 3, 9, 31
+All Sugg., [11, 44, 46, 64, 65, 65, 67, 69, 69, 70, 72, 72, 76, 76, 77, 82, 84, 85, 86, 86]
+Sugg. Med, 72.00
+Sugg. Std, 17.74
+dataset Std, 30.33
+Error, 150.67

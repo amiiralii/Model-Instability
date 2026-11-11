@@ -1,4 +1,6 @@
 Dataset, Health-Commits0008
-Sigmas, 0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 1
-initial_Aggrement, 0, 0, 0, 0, 0, 0, 0, 0, 0
-refined_Aggrement, 0, 0, 0, 0, 0, 0, 0, 0, 1
+All Sugg., [-4, 35, 37, 37, 37, 37, 37, 37, 37, 37, 37, 38, 38, 38, 38, 74, 75, 77, 93, 93]
+Sugg. Med, 37.00
+Sugg. Std, 23.63
+dataset Std, 21.75
+Error, 244.84

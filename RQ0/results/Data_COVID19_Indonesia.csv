@@ -1,4 +1,6 @@
 Dataset, Data_COVID19_Indonesia
-Sigmas, 0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 1
-initial_Aggrement, 0, 0, 0, 0, 0, 51, 67, 67, 85
-refined_Aggrement, 76, 100, 100, 100, 100, 100, 100, 100, 100
+All Sugg., [10, 13, 24, 30, 34, 35, 41, 44, 45, 56, 58, 59, 60, 61, 68, 74, 74, 74, 81, 81]
+Sugg. Med, 58.00
+Sugg. Std, 21.79
+dataset Std, 16.36
+Error, 234.03

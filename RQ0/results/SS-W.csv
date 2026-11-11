@@ -1,4 +1,6 @@
 Dataset, SS-W
-Sigmas, 0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 1
-initial_Aggrement, 0, 0, 0, 0, 0, 0, 0, 0, 0
-refined_Aggrement, 0, 0, 0, 0, 0, 0, 0, 0, 0
+All Sugg., [-2, 14, 25, 26, 26, 28, 33, 33, 33, 35, 35, 36, 38, 42, 53, 53, 54, 55, 65, 69]
+Sugg. Med, 35.00
+Sugg. Std, 17.06
+dataset Std, 24.53
+Error, 281.08

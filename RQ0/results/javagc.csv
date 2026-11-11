@@ -1,4 +1,6 @@
 Dataset, javagc
-Sigmas, 0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 1
-initial_Aggrement, 0, 0, 0, 0, 0, 0, 0, 0, 0
-refined_Aggrement, 0, 0, 0, 0, 0, 0, 0, 1, 1
+All Sugg., [85, 86, 87, 88, 90, 91, 91, 91, 91, 91, 92, 92, 92, 93, 95, 95, 96, 97, 97, 97]
+Sugg. Med, 92.00
+Sugg. Std, 3.59
+dataset Std, 187.38
+Error, 36.12

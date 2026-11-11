@@ -1,4 +1,6 @@
 Dataset, Apache_AllMeasurements
-Sigmas, 0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 1
-initial_Aggrement, 1, 5, 9, 11, 23, 36, 43, 55, 70
-refined_Aggrement, 29, 47, 53, 62, 67, 70, 72, 77, 93
+All Sugg., [79, 79, 79, 84, 84, 84, 89, 89, 89, 94, 94, 94, 94, 94, 94, 100, 100, 100, 100, 100]
+Sugg. Med, 94.00
+Sugg. Std, 7.43
+dataset Std, 80.83
+Error, 47.43

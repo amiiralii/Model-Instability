@@ -1,4 +1,6 @@
 Dataset, Wine_quality
-Sigmas, 0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 1
-initial_Aggrement, 0, 0, 0, 0, 0, 0, 0, 0, 0
-refined_Aggrement, 0, 0, 0, 0, 0, 0, 0, 0, 1
+All Sugg., [31, 33, 37, 41, 41, 44, 45, 45, 46, 49, 51, 51, 53, 57, 63, 67, 76, 76, 91, 94]
+Sugg. Med, 51.00
+Sugg. Std, 18.00
+dataset Std, 31.94
+Error, 200.90

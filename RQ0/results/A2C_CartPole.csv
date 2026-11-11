@@ -1,4 +1,6 @@
 Dataset, A2C_CartPole
-Sigmas, 0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 1
-initial_Aggrement, 0, 0, 0, 0, 0, 1, 4, 14, 28
-refined_Aggrement, 0, 0, 0, 0, 13, 36, 41, 49, 66
+All Sugg., [13, 16, 19, 19, 23, 23, 24, 24, 24, 24, 25, 25, 26, 26, 26, 26, 28, 32, 100, 100]
+Sugg. Med, 25.00
+Sugg. Std, 23.91
+dataset Std, 14.65
+Error, 219.74

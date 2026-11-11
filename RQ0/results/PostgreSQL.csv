@@ -1,4 +1,6 @@
 Dataset, PostgreSQL
-Sigmas, 0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 1
-initial_Aggrement, 0, 0, 0, 0, 0, 0, 6, 16, 57
-refined_Aggrement, 0, 0, 0, 28, 61, 84, 96, 100, 100
+All Sugg., [88, 90, 90, 90, 91, 91, 91, 91, 91, 92, 92, 92, 93, 93, 94, 96, 96, 97, 97, 98]
+Sugg. Med, 92.00
+Sugg. Std, 2.80
+dataset Std, 182.20
+Error, 33.35

@@ -1,4 +1,6 @@
 Dataset, WA_Fn-UseC_-Telco-Customer-Churn
-Sigmas, 0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 1
-initial_Aggrement, 0, 0, 0, 0, 1, 1, 4, 15, 39
-refined_Aggrement, 0, 0, 5, 15, 28, 64, 92, 100, 100
+All Sugg., [45, 70, 78, 81, 82, 88, 89, 89, 90, 94, 95, 97, 97, 97, 97, 98, 98, 98, 99, 99]
+Sugg. Med, 95.00
+Sugg. Std, 13.16
+dataset Std, 64.93
+Error, 73.59

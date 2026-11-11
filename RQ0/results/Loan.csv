@@ -1,4 +1,6 @@
 Dataset, Loan
-Sigmas, 0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 1
-initial_Aggrement, 0, 0, 0, 0, 0, 0, 0, 0, 0
-refined_Aggrement, 0, 0, 0, 0, 0, 0, 1, 4, 16
+All Sugg., [14, 26, 30, 30, 31, 34, 37, 38, 45, 47, 57, 57, 58, 62, 65, 69, 74, 76, 81, 84]
+Sugg. Med, 57.00
+Sugg. Std, 20.37
+dataset Std, 25.14
+Error, 231.29

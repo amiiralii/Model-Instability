@@ -1,4 +1,6 @@
 Dataset, all_players
-Sigmas, 0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 1
-initial_Aggrement, 0, 0, 0, 0, 0, 0, 0, 0, 2
-refined_Aggrement, 0, 0, 0, 0, 7, 17, 28, 36, 54
+All Sugg., [42, 46, 48, 50, 56, 57, 58, 58, 60, 60, 61, 61, 62, 63, 63, 65, 69, 90, 96, 97]
+Sugg. Med, 61.00
+Sugg. Std, 15.04
+dataset Std, 29.68
+Error, 167.86

@@ -1,4 +1,6 @@
 Dataset, rs-6d-c3_obj2
-Sigmas, 0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 1
-initial_Aggrement, 0, 0, 0, 0, 0, 0, 0, 0, 0
-refined_Aggrement, 0, 0, 0, 0, 0, 0, 0, 19, 72
+All Sugg., [99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99, 99]
+Sugg. Med, 99.00
+Sugg. Std, 0.00
+dataset Std, 270.58
+Error, 4.00

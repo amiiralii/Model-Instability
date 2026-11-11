@@ -1,4 +1,6 @@
 Dataset, wallpaper
-Sigmas, 0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 1
-initial_Aggrement, 0, 0, 0, 0, 0, 0, 0, 0, 0
-refined_Aggrement, 0, 0, 5, 6, 30, 62, 85, 94, 96
+All Sugg., [7, 7, 18, 23, 24, 24, 25, 27, 28, 28, 28, 31, 32, 32, 32, 34, 34, 34, 98, 100]
+Sugg. Med, 28.00
+Sugg. Std, 23.77
+dataset Std, 26.36
+Error, 296.25

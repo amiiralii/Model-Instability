@@ -1,4 +1,6 @@
 Dataset, HSMGP_num
-Sigmas, 0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 1
-initial_Aggrement, 0, 0, 0, 0, 0, 0, 18, 18, 18
-refined_Aggrement, 0, 15, 15, 15, 15, 50, 65, 77, 95
+All Sugg., [86, 87, 90, 91, 93, 95, 96, 96, 96, 96, 98, 98, 99, 99, 99, 99, 99, 99, 99, 100]
+Sugg. Med, 98.00
+Sugg. Std, 4.22
+dataset Std, 158.08
+Error, 24.68

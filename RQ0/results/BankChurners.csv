@@ -1,4 +1,6 @@
 Dataset, BankChurners
-Sigmas, 0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 1
-initial_Aggrement, 0, 0, 0, 0, 0, 0, 1, 2, 3
-refined_Aggrement, 0, 0, 0, 3, 19, 34, 50, 70, 85
+All Sugg., [4, 12, 21, 33, 47, 51, 52, 53, 56, 56, 58, 59, 64, 67, 67, 67, 68, 75, 75, 76]
+Sugg. Med, 58.00
+Sugg. Std, 20.59
+dataset Std, 24.62
+Error, 215.79
