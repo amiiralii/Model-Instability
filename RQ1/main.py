@@ -57,7 +57,7 @@ print(f"Recom sugg. Med, {sorted(suggested_optima_recom)[repeats//2]:.2f}")
 print(f"Init Sugg. Std, {adds(suggested_optima_init).sd:.2f}")
 print(f"Recom Sugg. Std, {adds(suggested_optima_recom).sd:.2f}")
 
-tops = top({"init":suggested_optima_init, "recom":suggested_optima_recom})
+tops = top({"init":suggested_optima_init, "recom":suggested_optima_recom}, reverse=True)
 print(f"Init top?, {1 if "init" in tops else 0}")
 print(f"Recom top?, {1 if "recom" in tops else 0}")
 # ## Dataset's own std
