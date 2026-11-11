@@ -1,6 +1,6 @@
 # Instability in search-based software engineering. Tolerated Noise or Manageable Property?
 
-> **To be submitted to IST**
+> **To be submitted to TSE**
 
 ---
 
