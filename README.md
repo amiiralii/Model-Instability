@@ -1,9 +1,6 @@
-# [TODO List](TODO.md)
+# Instability in search-based software engineering. Tolerated Noise or Manageable Property?
 
-
-# Is Model Instability just Noise to be Tolerated or a Property that can be Managed?
-
-> **Anonymous submission for ICSE 2027** — Author information withheld for double-blind review.
+> **To be submitted to IST**
 
 ---
 
